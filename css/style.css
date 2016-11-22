@@ -324,7 +324,7 @@ work section
     text-align: center;
 }
 #work .col-md-4 {
-  padding: 28px;
+  padding: 20px;
   position: relative;
   transition: all 0.4s ease-in-out;
 }
@@ -549,7 +549,7 @@ methodology section
 	display: block;
   	color: #ffffff;
   	font-size: 16px;
-  	padding: 10px 20px;
+  	padding: 10px 15px;
   	border: 0;
   	border-radius: 0;
 }
